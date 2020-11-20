@@ -1,2 +1,3 @@
 # Zoom-pHp
-A pHp script to prevent third party intervention by restricting access through roll number
+This is a php script that I wrote to prevent *_Zoom-Bombing_* by restricting access through university seat numbers of students.
+It was used by the ECE department for one entire semester.
